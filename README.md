@@ -39,6 +39,9 @@ El contenido debe ser desarrollado.
 
 ![image](https://user-images.githubusercontent.com/93734334/141704003-1368b355-e101-4230-a66b-8d2749de67cf.png)
 
+![image](https://user-images.githubusercontent.com/93734334/141704021-c083d22c-f90e-49cd-92df-2693c4069348.png)
+
+
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
