@@ -62,6 +62,7 @@ del nodo. Anote los resultados en la tabla 1.3.                                 
 1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.
 
+¿Se cumplio la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes?
 
 5. VIDEO
 
