@@ -33,6 +33,16 @@ Despues de hallar la corriente uno y la corriente dos se va a encontrar los volt
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+
+* Medida del voltaje
+
+![image](https://user-images.githubusercontent.com/93734334/141788159-fd702dc0-f720-4cae-90a0-bf1534f81ca9.png)
+
+* Medida de la corriente
+
+![image](https://user-images.githubusercontent.com/93734334/141788235-192a0986-a907-4bec-869b-4c85a1f27f2d.png)
+
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
 ![image](https://user-images.githubusercontent.com/93734334/141787703-38e1e933-277f-46df-84cc-9ef2ffa9b681.png)
