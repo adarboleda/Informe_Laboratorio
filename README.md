@@ -45,7 +45,7 @@ Despues de hallar la corriente uno y la corriente dos se va a encontrar los volt
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-![image](https://user-images.githubusercontent.com/93734334/141787703-38e1e933-277f-46df-84cc-9ef2ffa9b681.png)
+![image](https://user-images.githubusercontent.com/93734334/141865450-d408ba3a-b147-409c-9019-f4f80bb1cb06.png)
 
 1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
 signo negativo. Anote los resultados en la tabla 1.2.                                                                                                                             Tabla 1.2. Verificación de la LVK.
