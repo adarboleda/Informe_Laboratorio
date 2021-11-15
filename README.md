@@ -39,10 +39,15 @@ El contenido debe ser desarrollado.
 
 ![image](https://user-images.githubusercontent.com/93734334/141704003-1368b355-e101-4230-a66b-8d2749de67cf.png)
 
+En el siguiente circuito mixto lo primero que se va a hacer hallar la corriente uno y dos.
+
 ![image](https://user-images.githubusercontent.com/93734334/141704021-c083d22c-f90e-49cd-92df-2693c4069348.png)
 
+![image](https://user-images.githubusercontent.com/93734334/141704328-96a2b968-9523-4bd3-be39-6fc879df1cb6.png)
 
+Despues de hallar la corriente uno y la corriente dos se va a encontrar los voltajes y las corrientes de cada resistencia.
 
+![image](https://user-images.githubusercontent.com/93734334/141704461-bafd724b-6541-46f8-ad0a-8866e2e5a25a.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
