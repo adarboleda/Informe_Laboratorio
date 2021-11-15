@@ -29,7 +29,7 @@ En el siguiente circuito mixto lo primero que se va a hacer es hallar la corrien
 
 Despues de hallar la corriente uno y la corriente dos se va a encontrar los voltajes y las corrientes de cada resistencia.
 
-![image](https://user-images.githubusercontent.com/93734334/141704461-bafd724b-6541-46f8-ad0a-8866e2e5a25a.png)
+![image](https://user-images.githubusercontent.com/93734334/141718716-8f1dbad8-6d1f-4246-959c-52b2621f8609.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
