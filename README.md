@@ -53,8 +53,9 @@ signo negativo. Anote los resultados en la tabla 1.2.                           
 1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 1.3.                                                                                                                                    Tabla 1.3. Verificación de la LCK.
 
-1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
-analíticamente y concluya al respecto.
+1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+
+* Como se observa en la tabla de los valores calculados y los valores medidos solo dos valores difieren, por lo que realizando los calculos para hallar el error porcentual el cual se calcula mediante la formula |Exact-approx|/(Exact)x100, se tiene que en estos dos valores existe errores de 0.5% y 0.3% demostrando que casi no existe error.
 
 ¿Se cumplio la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes?
 
