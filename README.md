@@ -39,11 +39,11 @@ El contenido debe ser desarrollado.
 
 ![image](https://user-images.githubusercontent.com/93734334/141704003-1368b355-e101-4230-a66b-8d2749de67cf.png)
 
-En el siguiente circuito mixto lo primero que se va a hacer hallar la corriente uno y dos.
+En el siguiente circuito mixto lo primero que se va a hacer es hallar la corriente uno y dos.
 
 ![image](https://user-images.githubusercontent.com/93734334/141704021-c083d22c-f90e-49cd-92df-2693c4069348.png)
 
-![image](https://user-images.githubusercontent.com/93734334/141704328-96a2b968-9523-4bd3-be39-6fc879df1cb6.png)
+![image](https://user-images.githubusercontent.com/93734334/141704675-603e78b5-6050-4566-bd57-8100b3c529dc.png)
 
 Despues de hallar la corriente uno y la corriente dos se va a encontrar los voltajes y las corrientes de cada resistencia.
 
