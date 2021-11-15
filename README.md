@@ -5,13 +5,13 @@
 
 Objetivo General:
 
-*Realizar una simulación de un circuito resistivo mixto y comparar los valores obtenidos de la simulación con el valor calculado y medido aplicando las leyes de Kirchhoff.
+* Realizar una simulación de un circuito resistivo mixto y comparar los valores obtenidos de la simulación con el valor calculado y medido aplicando las leyes de Kirchhoff.
 
 Objetivos Específicos:
 
-*Explicar sobre la ley de Kirchhoff de Voltajes y la ley de Kirchhoff de corrientes.
+* Explicar sobre la ley de Kirchhoff de Voltajes y la ley de Kirchhoff de corrientes.
 
-*Verificar los valores de la corriente y el voltaje que pasan por cada una de las resistencias con la ayuda de un amperímetro y un voltímetro.
+* Verificar los valores de la corriente y el voltaje que pasan por cada una de las resistencias con la ayuda de un amperímetro y un voltímetro.
 
 
 2. MARCO TEÓRICO 
