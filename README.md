@@ -54,7 +54,10 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 6. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+•	En resumidas palabras la ley de Kirchhoff de voltaje explica que la sumatoria de todas las caídas de voltaje de un circuito es igual a la cantidad que posee la fuente de voltaje que utiliza el circuito y la ley de Kirchhoff es similar que al sumar las corrientes de un circuito en paralelo debe dar igual a la corriente total del circuito.
+
+
+•	Los resultados de la simulación de un circuito con respecto a los resultados obtenidos de manera matemática son iguales, es decir se cumple la ley de Kirchhoff aplicada en los resultados matemáticos cabe recalcar que si existía un pequeño error pero en lo que respecta a los decimales debido a que se trabajo al realizar las operaciones con dos decimales y no con todos.
 
 
 7. BIBLIOGRAFÍA
