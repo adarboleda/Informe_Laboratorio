@@ -51,7 +51,17 @@ Despues de hallar la corriente uno y la corriente dos se va a encontrar los volt
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-En este punto se contestará todo lo planteado en las guías.
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
+signo negativo. Anote los resultados en la tabla 1.2.                                                                                                                             Tabla 1.2. Verificación de la LVK.
+
+1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
+del nodo. Anote los resultados en la tabla 1.3.                                                                                                                                    Tabla 1.3. Verificación de la LCK.
+
+1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
+analíticamente y concluya al respecto.
+
 
 5. VIDEO
 
