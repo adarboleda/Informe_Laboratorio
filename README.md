@@ -61,8 +61,8 @@ del nodo. Anote los resultados en la tabla 1.3.                                 
 
 * Como se observa en la tabla de los valores calculados y los valores medidos solo dos valores difieren, por lo que realizando los calculos para hallar el error porcentual el cual se calcula mediante la formula |Exact-approx|/(Exact)x100, se tiene que en estos dos valores existe errores de 0.5% y 0.3% demostrando que casi no existe error.
 
-¿Se cumplio la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes?
-Si se cumplio puesto que 
+¿Se cumplio la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes?                                                                                                 
+Si se cumplio puesto que cuample con la ley de Kirchoff la cual menciona que la suma de todos lo voltajes en cada malla o en cada trayectoria es 0, de igual manera para los nodos menciona que las suma de todas las corrientes en cada nodo es cero.
 
 5. VIDEO
 
