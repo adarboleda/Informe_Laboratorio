@@ -63,6 +63,7 @@ del nodo. Anote los resultados en la tabla 1.3.                                 
 
 ¿Se cumplio la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes?                                                                                                 
 Si se cumplio puesto que cuample con la ley de Kirchoff la cual menciona que la suma de todos lo voltajes en cada malla o en cada trayectoria es igual a cero, de igual manera para los nodos menciona que las suma de todas las corrientes que pasan por el nodo es igual a 0. 
+
 5. VIDEO
 
 https://youtu.be/tUIPhdDPWoo
