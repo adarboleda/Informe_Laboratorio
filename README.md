@@ -50,7 +50,7 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
 signo negativo. Anote los resultados en la tabla 1.2.                                                                                                                             Tabla 1.2. Verificación de la LVK.
 
-![image](https://user-images.githubusercontent.com/93734334/141877660-f07e4bf9-3060-42bd-9575-be384f144069.png)
+![image](https://user-images.githubusercontent.com/93734334/141878957-2d706239-d22b-45b0-af1d-7a94978be26b.png)
 
 1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 1.3.                                                                                                                                    Tabla 1.3. Verificación de la LCK.
